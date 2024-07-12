@@ -93,3 +93,4 @@
 66. [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - A window snapping tool for Windows.
 67. [Arc](https://arc.net/) - A browser that introduces spatial computing to the web.
 68. [Postman](https://www.postman.com/) - A collaboration platform for API development.
+69. [LocalSend](https://github.com/localsend/localsend/releases/tag/v1.14.0) - file sharing over different platforms
